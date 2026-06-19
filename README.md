@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/JWT-Access%20%26%20Refresh%20Tokens-000000?logo=jsonwebtokens&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Google-OAuth2-4285F4?logo=google&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/GitHub-OAuth2-181717?logo=github&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/JWT-Access%20%26%20Refresh%20Tokens-000000?logo=jsonwebtokens&logoColor=white" />
 </p>
 
 <p align="center">
@@ -23,6 +23,8 @@
   &nbsp;
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white" />
 </p>
+<br/>
+<hr/>
 
 ### Backend
 - Java 21
