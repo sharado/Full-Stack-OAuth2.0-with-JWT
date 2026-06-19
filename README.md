@@ -1,5 +1,11 @@
 ## Tech Stack
 
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-green)
+![React](https://img.shields.io/badge/React-19-blue)
+![JWT](https://img.shields.io/badge/JWT-Auth-red)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+
 ### Backend
 - Java 21
 - Spring Boot
