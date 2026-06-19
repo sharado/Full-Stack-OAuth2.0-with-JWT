@@ -1,0 +1,25 @@
+@use "sass:color";
+@import "../../common.scss";
+
+$myColor: black;
+
+.login {
+    @include apply-shadow;
+
+    .text {
+        font-size: 30px;
+        font-weight: 500;
+        // color: color.adjust($myColor , $lightness: 35%);
+        color: adjust-color($color: black, $hue: 20, $saturation: 10%, $lightness: 35%, $alpha: 1.0);
+    }
+}
+
+.password-input {
+    padding-right: 60px;
+}
+
+/* Disable browser password eye (Edge / Chromium) */
+.password-input::-ms-reveal,
+.password-input::-ms-clear {
+    display: none;
+}

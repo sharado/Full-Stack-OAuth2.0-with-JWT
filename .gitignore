@@ -1,0 +1,7 @@
+#backend
+backend/src/main/resources/application*.yml
+backend/target/
+
+#frontend
+frontend/node_modules
+frontend/.env
