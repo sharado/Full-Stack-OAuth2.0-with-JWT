@@ -2,15 +2,14 @@
 
 ### Backend
 - Java 21
-- Spring Boot 3
-- Spring Security OAuth2
+- Spring Boot
+- Spring Security
+- OAuth 2.0
 - JWT Authentication
-- Maven
 
 ### Frontend
-- React
-- Vite
-- React Router
+- React.js
+- React Bootstrap
 - SCSS
 
 ### Database
@@ -18,6 +17,7 @@
 
 ### Authentication
 - Google OAuth2
+- GitHub OAuth2
 - JWT Access & Refresh Tokens
 
 ```mermaid
