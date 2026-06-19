@@ -1,4 +1,5 @@
 <h2 align="center">Tech Stack</h2>
+<hr/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white" />
@@ -23,7 +24,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white" />
 </p>
-<br/>
 <hr/>
 
 ### Backend
