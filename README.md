@@ -1,16 +1,16 @@
 ## Tech Stack
 
-## Tech Stack
-
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white)
 &nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot&logoColor=white)
 &nbsp;;
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6.x-6DB33F?logo=springsecurity&logoColor=white)
 &nbsp;
-![OAuth2](https://img.shields.io/badge/OAuth2.0-Google-4285F4?logo=google&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2.0-Authorization-4285F4?logo=oauth&logoColor=white)
 &nbsp;
-![GitHub OAuth](https://img.shields.io/badge/GitHub-OAuth2-181717?logo=github&logoColor=white)
+![Google](https://img.shields.io/badge/Google-Identity%20Provider-4285F4?logo=google&logoColor=white)
+&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-Identity%20Provider-181717?logo=github&logoColor=white)
 &nbsp;
 ![JWT](https://img.shields.io/badge/JWT-Authentication-000000?logo=jsonwebtokens&logoColor=white)
 &nbsp;
