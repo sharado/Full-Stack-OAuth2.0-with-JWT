@@ -24,7 +24,7 @@
 flowchart TD
     A[Browser]
     B[React SPA]
-    C[Google/GitHub OAuth Server]
+    C[OAuth Server]
     D[Spring Security OAuth2]
     E[JWT Token Service]
     F[(MySQL)]
