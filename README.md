@@ -1,10 +1,20 @@
 ## Tech Stack
 
-![Java](https://img.shields.io/badge/Java-21-orange)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-green)
-![React](https://img.shields.io/badge/React-19-blue)
-![JWT](https://img.shields.io/badge/JWT-Auth-red)
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white)
+&nbsp;&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot&logoColor=white)
+&nbsp;&nbsp;
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6.x-6DB33F?logo=springsecurity&logoColor=white)
+&nbsp;&nbsp;
+![OAuth2](https://img.shields.io/badge/OAuth2.0-Google-4285F4?logo=google&logoColor=white)
+&nbsp;&nbsp;
+![JWT](https://img.shields.io/badge/JWT-Authentication-000000?logo=jsonwebtokens&logoColor=white)
+&nbsp;&nbsp;
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
+&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
 
 ### Backend
 - Java 21
