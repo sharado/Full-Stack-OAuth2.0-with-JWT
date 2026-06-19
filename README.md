@@ -7,9 +7,9 @@ flowchart TD
     E[JWT Token Service]
     F[(MySQL)]
 
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E --> F
+    A <--> B
+    B <--> C
+    C <--> D
+    D <--> E
+    E <--> F
 ```
